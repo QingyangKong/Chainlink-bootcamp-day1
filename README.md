@@ -1,5 +1,5 @@
-# Chainlink-bootcamp
-This the sample codes for Chainlink bootcamp
+# Chainlink-bootcamp-day1
+This the sample codes for Chainlink 2-day bootcamp day1
 In day 1 of the bootcamp, you will compelete the NFT smart contract that allows minter to mint NFT randomly.
 
 ## Instructions
