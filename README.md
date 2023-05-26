@@ -10,6 +10,7 @@ In day 1 of the bootcamp, you will compelete the NFT smart contract that allows 
 - Deploy the smart contract `NFTDogs.sol`.
 - Call function `setNft` with address of deployed `NFTDogs.sol`.
 - Call function `setVrf` with address of deployed `VRFv2Consumer.sol`.
+- Add the address of `VRFv2Consumer.sol` under subscription you created in [VRF App](https://vrf.chain.link/).
 - Call function `safeMint`.
 - Check if the fulfillment is successful in [VRF App](https://vrf.chain.link/).
 - Head to [Opensea](https://testnets.opensea.io/) on testnet to check which dog you got!
